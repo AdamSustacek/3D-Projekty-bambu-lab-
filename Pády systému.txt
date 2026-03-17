@@ -1,6 +1,0 @@
-4.1.2026  pád kvůli BT
-5.12.2025 pád kvůli NVidia
-3.11.2025 pád kvůli AMD čipset Driver
-7.11.2025 pád kvůli AMD čipset - způsobuje přímo GoogleplayGame - doporučeno odinstalovat
-24.9.2025 pád kvůli AMD čipset - aktualizace bios a drivers odinstalovat google playgames.
-
